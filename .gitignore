@@ -1,0 +1,5 @@
+dump.rdb
+node_modules/*
+.DS_Store
+.emailUsername
+.emailPassword

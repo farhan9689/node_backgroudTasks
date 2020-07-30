@@ -1,0 +1,18 @@
+{
+  "name": "background_jobs_node",
+  "version": "1.0.0",
+  "description": "An example of using node and redis for all types of crazy background jobs",
+  "author": "evan tahler",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.3",
+    "firebase-admin": "^8.10.0",
+    "ioredis": "^1.15.1",
+    "node-resque": "^2.0.3",
+    "nodemailer": "^2.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/evantahler/background_jobs_node.git"
+  }
+}
