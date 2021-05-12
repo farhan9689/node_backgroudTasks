@@ -9,7 +9,7 @@
     "firebase-admin": "^8.10.0",
     "ioredis": "^1.15.1",
     "node-resque": "^2.0.3",
-    "nodemailer": "^2.3.2"
+    "nodemailer": "^6.4.16"
   },
   "repository": {
     "type": "git",
